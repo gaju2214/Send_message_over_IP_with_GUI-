@@ -1,779 +1,100 @@
-2024-06-26 17:50:26 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 17:50:26 - Server started on 192.168.31.23:9999
-2024-06-26 17:50:26 - Server is listening for connections...
-2024-06-26 17:50:26 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-26 17:50:26 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-26 17:50:26 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-26 17:50:26 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-26 17:51:20 - Got a connection from ('192.168.31.170', 51328)
-2024-06-26 17:51:20 - Message received from ('192.168.31.170', 51328): Computer 7: Hii
-2024-06-26 17:51:20 - Message received from ('192.168.31.170', 51328): Computer 7: Hii
-2024-06-26 18:25:32 - diff parser start
-2024-06-26 18:25:32 - line_lengths old: 148; new: 144
-2024-06-26 18:25:32 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:25:32 - copy old[1:11] new[1:11]
-2024-06-26 18:25:32 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:25:32 - -> code[replace] old[18:22] new[18:18]
-2024-06-26 18:25:32 - -> code[equal] old[23:148] new[19:144]
-2024-06-26 18:25:32 - copy old[29:143] new[24:139]
-2024-06-26 18:25:32 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:32 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:32 - diff parser end
-2024-06-26 18:25:44 - diff parser start
-2024-06-26 18:25:44 - line_lengths old: 144; new: 144
-2024-06-26 18:25:44 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:44 - copy old[1:9] new[1:9]
-2024-06-26 18:25:44 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:44 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:44 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:44 - copy old[13:139] new[12:139]
-2024-06-26 18:25:44 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:44 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:44 - diff parser end
-2024-06-26 18:25:45 - diff parser start
-2024-06-26 18:25:45 - line_lengths old: 144; new: 144
-2024-06-26 18:25:45 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:45 - copy old[1:9] new[1:9]
-2024-06-26 18:25:45 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:45 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:45 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:45 - copy old[13:139] new[12:139]
-2024-06-26 18:25:45 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:45 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:45 - diff parser end
-2024-06-26 18:25:47 - diff parser start
-2024-06-26 18:25:47 - line_lengths old: 144; new: 144
-2024-06-26 18:25:47 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:47 - copy old[1:9] new[1:9]
-2024-06-26 18:25:47 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:47 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:47 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:47 - copy old[13:139] new[12:139]
-2024-06-26 18:25:47 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:47 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:47 - diff parser end
-2024-06-26 18:25:48 - diff parser start
-2024-06-26 18:25:48 - line_lengths old: 144; new: 144
-2024-06-26 18:25:48 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:48 - copy old[1:9] new[1:9]
-2024-06-26 18:25:48 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:48 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:48 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:48 - copy old[13:139] new[12:139]
-2024-06-26 18:25:48 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:48 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:48 - diff parser end
-2024-06-26 18:25:49 - diff parser start
-2024-06-26 18:25:49 - line_lengths old: 144; new: 144
-2024-06-26 18:25:49 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:49 - copy old[1:9] new[1:9]
-2024-06-26 18:25:49 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:49 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:49 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:49 - copy old[13:139] new[12:139]
-2024-06-26 18:25:49 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:49 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:49 - diff parser end
-2024-06-26 18:25:50 - diff parser start
-2024-06-26 18:25:50 - line_lengths old: 144; new: 144
-2024-06-26 18:25:50 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:50 - copy old[1:9] new[1:9]
-2024-06-26 18:25:50 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:50 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:50 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:50 - copy old[13:139] new[12:139]
-2024-06-26 18:25:50 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:50 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:50 - diff parser end
-2024-06-26 18:25:50 - diff parser start
-2024-06-26 18:25:50 - line_lengths old: 144; new: 144
-2024-06-26 18:25:50 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:50 - copy old[1:9] new[1:9]
-2024-06-26 18:25:50 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:50 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:50 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:50 - copy old[13:139] new[12:139]
-2024-06-26 18:25:50 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:50 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:50 - diff parser end
-2024-06-26 18:25:51 - diff parser start
-2024-06-26 18:25:51 - line_lengths old: 144; new: 144
-2024-06-26 18:25:51 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:51 - copy old[1:9] new[1:9]
-2024-06-26 18:25:51 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:51 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:51 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:51 - copy old[13:139] new[12:139]
-2024-06-26 18:25:51 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:51 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:51 - diff parser end
-2024-06-26 18:25:52 - diff parser start
-2024-06-26 18:25:52 - line_lengths old: 144; new: 144
-2024-06-26 18:25:52 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:25:52 - copy old[1:9] new[1:9]
-2024-06-26 18:25:52 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:25:52 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:25:52 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:25:52 - copy old[13:139] new[12:139]
-2024-06-26 18:25:52 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:25:52 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:25:52 - diff parser end
-2024-06-26 18:26:00 - diff parser start
-2024-06-26 18:26:00 - line_lengths old: 144; new: 144
-2024-06-26 18:26:00 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:00 - copy old[1:11] new[1:11]
-2024-06-26 18:26:00 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:26:00 - -> code[replace] old[18:18] new[18:18]
-2024-06-26 18:26:00 - -> code[equal] old[19:144] new[19:144]
-2024-06-26 18:26:00 - copy old[25:139] new[24:139]
-2024-06-26 18:26:00 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:00 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:00 - diff parser end
-2024-06-26 18:26:02 - diff parser start
-2024-06-26 18:26:02 - line_lengths old: 144; new: 144
-2024-06-26 18:26:02 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:02 - copy old[1:11] new[1:11]
-2024-06-26 18:26:02 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:26:02 - -> code[replace] old[18:18] new[18:18]
-2024-06-26 18:26:02 - -> code[equal] old[19:144] new[19:144]
-2024-06-26 18:26:02 - copy old[25:139] new[24:139]
-2024-06-26 18:26:02 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:02 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:02 - diff parser end
-2024-06-26 18:26:08 - diff parser start
-2024-06-26 18:26:08 - line_lengths old: 144; new: 144
-2024-06-26 18:26:08 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:08 - copy old[1:9] new[1:9]
-2024-06-26 18:26:08 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:08 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:08 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:26:08 - copy old[13:139] new[12:139]
-2024-06-26 18:26:08 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:08 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:08 - diff parser end
-2024-06-26 18:26:09 - diff parser start
-2024-06-26 18:26:09 - line_lengths old: 144; new: 144
-2024-06-26 18:26:09 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:09 - copy old[1:9] new[1:9]
-2024-06-26 18:26:09 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:09 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:09 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:26:09 - copy old[13:139] new[12:139]
-2024-06-26 18:26:09 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:09 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:09 - diff parser end
-2024-06-26 18:26:10 - diff parser start
-2024-06-26 18:26:10 - line_lengths old: 144; new: 144
-2024-06-26 18:26:10 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:10 - copy old[1:9] new[1:9]
-2024-06-26 18:26:10 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:10 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:10 - -> code[equal] old[12:144] new[12:144]
-2024-06-26 18:26:10 - copy old[13:139] new[12:139]
-2024-06-26 18:26:10 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:10 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:10 - diff parser end
-2024-06-26 18:26:10 - diff parser start
-2024-06-26 18:26:10 - line_lengths old: 144; new: 148
-2024-06-26 18:26:10 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:10 - copy old[1:11] new[1:11]
-2024-06-26 18:26:10 - parse_part from 12 to 27 (to 28 in part parser)
-2024-06-26 18:26:10 - -> code[replace] old[18:18] new[18:22]
-2024-06-26 18:26:10 - -> code[equal] old[19:144] new[23:148]
-2024-06-26 18:26:10 - copy old[25:139] new[28:143]
-2024-06-26 18:26:10 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:10 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:10 - diff parser end
-2024-06-26 18:26:19 - diff parser start
-2024-06-26 18:26:19 - line_lengths old: 148; new: 148
-2024-06-26 18:26:19 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:19 - copy old[1:9] new[1:9]
-2024-06-26 18:26:19 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:19 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:19 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:19 - copy old[13:143] new[12:143]
-2024-06-26 18:26:19 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:19 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:19 - diff parser end
-2024-06-26 18:26:19 - diff parser start
-2024-06-26 18:26:19 - line_lengths old: 148; new: 148
-2024-06-26 18:26:19 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:19 - copy old[1:9] new[1:9]
-2024-06-26 18:26:19 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:19 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:19 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:19 - copy old[13:143] new[12:143]
-2024-06-26 18:26:19 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:19 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:19 - diff parser end
-2024-06-26 18:26:21 - diff parser start
-2024-06-26 18:26:21 - line_lengths old: 148; new: 148
-2024-06-26 18:26:21 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:21 - copy old[1:9] new[1:9]
-2024-06-26 18:26:21 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:21 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:21 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:21 - copy old[13:143] new[12:143]
-2024-06-26 18:26:21 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:21 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:21 - diff parser end
-2024-06-26 18:26:22 - diff parser start
-2024-06-26 18:26:22 - line_lengths old: 148; new: 148
-2024-06-26 18:26:22 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:22 - copy old[1:9] new[1:9]
-2024-06-26 18:26:22 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:22 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:22 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:22 - copy old[13:143] new[12:143]
-2024-06-26 18:26:22 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:22 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:22 - diff parser end
-2024-06-26 18:26:24 - diff parser start
-2024-06-26 18:26:24 - line_lengths old: 148; new: 148
-2024-06-26 18:26:24 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:24 - copy old[1:9] new[1:9]
-2024-06-26 18:26:24 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:24 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:24 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:24 - copy old[13:143] new[12:143]
-2024-06-26 18:26:24 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:24 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:24 - diff parser end
-2024-06-26 18:26:26 - diff parser start
-2024-06-26 18:26:26 - line_lengths old: 148; new: 148
-2024-06-26 18:26:26 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:26 - copy old[1:9] new[1:9]
-2024-06-26 18:26:26 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:26 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:26 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:26 - copy old[13:143] new[12:143]
-2024-06-26 18:26:26 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:26 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:26 - diff parser end
-2024-06-26 18:26:27 - diff parser start
-2024-06-26 18:26:27 - line_lengths old: 148; new: 148
-2024-06-26 18:26:27 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:27 - copy old[1:9] new[1:9]
-2024-06-26 18:26:27 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:27 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:27 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:27 - copy old[13:143] new[12:143]
-2024-06-26 18:26:27 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:27 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:27 - diff parser end
-2024-06-26 18:26:27 - diff parser start
-2024-06-26 18:26:27 - line_lengths old: 148; new: 148
-2024-06-26 18:26:27 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:27 - copy old[1:9] new[1:9]
-2024-06-26 18:26:27 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:27 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:27 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:27 - copy old[13:143] new[12:143]
-2024-06-26 18:26:27 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:28 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:28 - diff parser end
-2024-06-26 18:26:28 - diff parser start
-2024-06-26 18:26:28 - line_lengths old: 148; new: 148
-2024-06-26 18:26:28 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:28 - copy old[1:9] new[1:9]
-2024-06-26 18:26:28 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:28 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:28 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:28 - copy old[13:143] new[12:143]
-2024-06-26 18:26:28 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:28 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:28 - diff parser end
-2024-06-26 18:26:28 - diff parser start
-2024-06-26 18:26:28 - line_lengths old: 148; new: 148
-2024-06-26 18:26:28 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:28 - copy old[1:9] new[1:9]
-2024-06-26 18:26:28 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:28 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:28 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:28 - copy old[13:143] new[12:143]
-2024-06-26 18:26:28 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:28 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:28 - diff parser end
-2024-06-26 18:26:29 - diff parser start
-2024-06-26 18:26:29 - line_lengths old: 148; new: 148
-2024-06-26 18:26:29 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:29 - copy old[1:9] new[1:9]
-2024-06-26 18:26:29 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:29 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:29 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:29 - copy old[13:143] new[12:143]
-2024-06-26 18:26:29 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:29 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:29 - diff parser end
-2024-06-26 18:26:31 - diff parser start
-2024-06-26 18:26:31 - line_lengths old: 148; new: 148
-2024-06-26 18:26:31 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:31 - copy old[1:9] new[1:9]
-2024-06-26 18:26:31 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:31 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:31 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:31 - copy old[13:143] new[12:143]
-2024-06-26 18:26:31 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:31 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:31 - diff parser end
-2024-06-26 18:26:32 - diff parser start
-2024-06-26 18:26:32 - line_lengths old: 148; new: 148
-2024-06-26 18:26:32 - -> code[equal] old[1:10] new[1:10]
-2024-06-26 18:26:32 - copy old[1:9] new[1:9]
-2024-06-26 18:26:32 - parse_part from 10 to 11 (to 12 in part parser)
-2024-06-26 18:26:32 - -> code[replace] old[11:11] new[11:11]
-2024-06-26 18:26:32 - -> code[equal] old[12:148] new[12:148]
-2024-06-26 18:26:32 - copy old[13:143] new[12:143]
-2024-06-26 18:26:32 - parse_part from 144 to 144 (to 144 in part parser)
-2024-06-26 18:26:32 - parse_part from 145 to 148 (to 147 in part parser)
-2024-06-26 18:26:32 - diff parser end
-2024-06-26 18:26:37 - diff parser start
-2024-06-26 18:26:37 - line_lengths old: 148; new: 144
-2024-06-26 18:26:37 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:37 - copy old[1:11] new[1:11]
-2024-06-26 18:26:37 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:26:37 - -> code[replace] old[18:22] new[18:18]
-2024-06-26 18:26:37 - -> code[equal] old[23:148] new[19:144]
-2024-06-26 18:26:37 - copy old[29:143] new[24:139]
-2024-06-26 18:26:37 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:37 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:37 - diff parser end
-2024-06-26 18:26:38 - diff parser start
-2024-06-26 18:26:38 - line_lengths old: 144; new: 144
-2024-06-26 18:26:38 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:38 - copy old[1:11] new[1:11]
-2024-06-26 18:26:38 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:26:38 - -> code[replace] old[18:18] new[18:18]
-2024-06-26 18:26:38 - -> code[equal] old[19:144] new[19:144]
-2024-06-26 18:26:38 - copy old[25:139] new[24:139]
-2024-06-26 18:26:38 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:38 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:38 - diff parser end
-2024-06-26 18:26:38 - diff parser start
-2024-06-26 18:26:38 - line_lengths old: 144; new: 144
-2024-06-26 18:26:38 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:38 - copy old[1:11] new[1:11]
-2024-06-26 18:26:38 - parse_part from 12 to 23 (to 24 in part parser)
-2024-06-26 18:26:38 - -> code[replace] old[18:18] new[18:18]
-2024-06-26 18:26:38 - -> code[equal] old[19:144] new[19:144]
-2024-06-26 18:26:38 - copy old[25:139] new[24:139]
-2024-06-26 18:26:38 - parse_part from 140 to 140 (to 140 in part parser)
-2024-06-26 18:26:38 - parse_part from 141 to 144 (to 143 in part parser)
-2024-06-26 18:26:38 - diff parser end
-2024-06-26 18:26:38 - diff parser start
-2024-06-26 18:26:38 - line_lengths old: 144; new: 143
-2024-06-26 18:26:38 - -> code[equal] old[1:17] new[1:17]
-2024-06-26 18:26:38 - copy old[1:11] new[1:11]
-2024-06-26 18:26:38 - parse_part from 12 to 22 (to 23 in part parser)
-2024-06-26 18:26:38 - -> code[delete] old[18:18] new[18:17]
-2024-06-26 18:26:38 - -> code[equal] old[19:144] new[18:143]
-2024-06-26 18:26:38 - copy old[25:139] new[23:138]
-2024-06-26 18:26:39 - parse_part from 139 to 139 (to 139 in part parser)
-2024-06-26 18:26:39 - parse_part from 140 to 143 (to 142 in part parser)
-2024-06-26 18:26:39 - diff parser end
-2024-06-26 18:28:29 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 18:29:55 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 18:29:55 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-26 18:31:26 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 18:31:26 - Server started on 192.168.31.23:9999
-2024-06-26 18:31:26 - Server is listening for connections...
-2024-06-26 18:31:28 - Got a connection from ('192.168.31.170', 51613)
-2024-06-26 18:31:28 - Message received from ('192.168.31.170', 51613): Computer 7: hgf
-2024-06-26 18:31:28 - Message received from ('192.168.31.170', 51613): Computer 7: hgf
-2024-06-26 18:38:19 - Got a connection from ('192.168.31.170', 51731)
-2024-06-26 18:38:19 - Message received from ('192.168.31.170', 51731): Krushana: hii
-2024-06-26 18:38:19 - Message received from ('192.168.31.170', 51731): Krushana: hii
-2024-06-26 19:30:24 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:30:24 - Server started on 192.168.31.23:9999
-2024-06-26 19:30:24 - Server is listening for connections...
-2024-06-26 19:30:24 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:30:24 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:30:24 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:30:24 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:52:40 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-26 19:58:58 - Got a connection from ('192.168.31.192', 51170)
-2024-06-26 19:58:58 - Message received from ('192.168.31.192', 51170): Chaitali: Hii
-2024-06-26 19:58:58 - Message received from ('192.168.31.192', 51170): Chaitali: Hii
-2024-06-26 20:02:11 - Got a connection from ('192.168.31.192', 51191)
-2024-06-26 20:02:11 - Message received from ('192.168.31.192', 51191): Chaitali: Hii
-2024-06-26 20:02:11 - Message received from ('192.168.31.192', 51191): Chaitali: Hii
-2024-06-26 20:03:11 - Sent message: Gajanan: hello to 192.168.31.192
-2024-06-26 20:03:11 - Message sent to 192.168.31.192: Gajanan: hello
-2024-06-26 20:03:48 - Sent message: Gajanan: hello to 192.168.31.192
-2024-06-26 20:03:48 - Message sent to 192.168.31.192: Gajanan: hello
-2024-06-27 11:12:14 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:12:14 - Server started on 192.168.31.23:9999
-2024-06-27 11:12:14 - Server is listening for connections...
-2024-06-27 11:12:14 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:12:14 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:12:14 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:12:14 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:14:52 - Got a connection from ('192.168.31.192', 51663)
-2024-06-27 11:14:52 - Message received from ('192.168.31.192', 51663): Chaitali: hi
-2024-06-27 11:14:52 - Message received from ('192.168.31.192', 51663): Chaitali: hi
-2024-06-27 11:37:09 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:09 - Server started on 192.168.31.23:9999
-2024-06-27 11:37:09 - Server is listening for connections...
-2024-06-27 11:37:09 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:09 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:09 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:09 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:18 - Got a connection from ('192.168.31.192', 51742)
-2024-06-27 11:37:18 - Message received from ('192.168.31.192', 51742): Chaitali: Hi
-2024-06-27 11:37:18 - Message received from ('192.168.31.192', 51742): Chaitali: Hi
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:37:57 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:38:09 - Got a connection from ('192.168.31.192', 51743)
-2024-06-27 11:38:09 - Message received from ('192.168.31.192', 51743): Chaitali: Hi
-2024-06-27 11:38:09 - Message received from ('192.168.31.192', 51743): Chaitali: Hi
-2024-06-27 11:38:31 - Got a connection from ('192.168.31.192', 51745)
-2024-06-27 11:38:31 - Message received from ('192.168.31.192', 51745): Chaitali: hiiii
-2024-06-27 11:38:31 - Message received from ('192.168.31.192', 51745): Chaitali: hiiii
-2024-06-27 11:40:47 - Sent message: Gajanan: hi to 192.168.31.192
-2024-06-27 11:40:47 - Message sent to 192.168.31.192: Gajanan: hi
-2024-06-27 11:51:52 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:51:52 - Server started on 192.168.31.23:9999
-2024-06-27 11:51:52 - Server is listening for connections...
-2024-06-27 11:51:52 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:51:52 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:51:52 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:51:52 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 11:52:19 - Got a connection from ('192.168.31.192', 51773)
-
-2024-06-27 12:06:47 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-06-27 12:07:34 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-06-27 12:07:41 - Sent message: Gajanan: hi to 192.168.31.192
-2024-06-27 12:07:41 - Message sent to 192.168.31.192: Gajanan: hi
-2024-06-27 12:08:16 - Got a connection from ('192.168.31.46', 55012)
-2024-06-27 12:08:16 - Message received from ('192.168.31.46', 55012): Unknown Sender: hi
-2024-06-27 12:08:16 - Message received from ('192.168.31.46', 55012): Unknown Sender: hi
-2024-06-27 12:10:27 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-06-27 12:11:16 - Sent message: Gajanan: hi to 192.168.31.46
-2024-06-27 12:11:16 - Message sent to 192.168.31.46: Gajanan: hi
-2024-06-27 12:11:34 - Sent message: Gajanan: hi to 192.168.31.46
-2024-06-27 12:11:34 - Message sent to 192.168.31.46: Gajanan: hi
-2024-06-27 12:20:58 - Sent message: Gajanan: Hi to 192.168.31.46
-2024-06-27 12:20:58 - Message sent to 192.168.31.46: Gajanan: Hi
-2024-06-27 12:27:57 - Sent message: Gajanan: Hi to 192.168.31.192
-2024-06-27 12:27:57 - Message sent to 192.168.31.192: Gajanan: Hi
-2024-06-27 12:29:55 - Sent message: Gajanan: Hi to 192.168.31.192
-2024-06-27 12:29:55 - Message sent to 192.168.31.192: Gajanan: Hi
-2024-06-27 12:33:19 - Sent message: Gajanan: hi to 192.168.31.46
-2024-06-27 12:33:19 - Message sent to 192.168.31.46: Gajanan: hi
-2024-06-27 12:35:48 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:35:48 - Server started on 192.168.31.23:9999
-2024-06-27 12:35:48 - Server is listening for connections...
-2024-06-27 12:35:48 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:35:48 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:35:48 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:35:48 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:36:01 - Got a connection from ('192.168.31.46', 55137)
-2024-06-27 12:36:01 - Message received from ('192.168.31.46', 55137): Unknown Sender: hi
-2024-06-27 12:36:01 - Message received from ('192.168.31.46', 55137): Unknown Sender: hi
-2024-06-27 12:36:10 - Sent message: Gajanan: Hi to 192.168.31.192
-2024-06-27 12:36:10 - Message sent to 192.168.31.192: Gajanan: Hi
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:38:50 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:39:21 - Got a connection from ('192.168.31.46', 55148)
-2024-06-27 12:39:21 - Message received from ('192.168.31.46', 55148): Unknown Sender: hi
-2024-06-27 12:39:21 - Message received from ('192.168.31.46', 55148): Unknown Sender: hi
-2024-06-27 12:41:14 - Got a connection from ('192.168.31.46', 55153)
-2024-06-27 12:41:14 - Message received from ('192.168.31.46', 55153): Unknown Sender: hi
-2024-06-27 12:41:14 - Message received from ('192.168.31.46', 55153): Unknown Sender: hi
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:42:53 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:43:19 - Got a connection from ('192.168.31.46', 55160)
-2024-06-27 12:43:19 - Message received from ('192.168.31.46', 55160): Unknown Sender: hi
-2024-06-27 12:43:19 - Message received from ('192.168.31.46', 55160): Unknown Sender: hi
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:15 - Server started on 192.168.31.23:9999
-2024-06-27 12:44:15 - Server is listening for connections...
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:15 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:44:37 - Got a connection from ('192.168.31.46', 55165)
-2024-06-27 12:44:37 - Message received from ('192.168.31.46', 55165): Unknown Sender: hi
-2024-06-27 12:44:37 - Message received from ('192.168.31.46', 55165): Unknown Sender: hi
-2024-06-27 12:45:10 - Sent message: Gajanan: Hi to 192.168.31.46
-2024-06-27 12:45:10 - Message sent to 192.168.31.46: Gajanan: Hi
-2024-06-27 12:45:43 - Got a connection from ('192.168.31.46', 55170)
-2024-06-27 12:45:43 - Message received from ('192.168.31.46', 55170): Purvesh: hi
-2024-06-27 12:45:43 - Message received from ('192.168.31.46', 55170): Purvesh: hi
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:34 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:46:47 - Got a connection from ('192.168.31.46', 55174)
-2024-06-27 12:46:47 - Message received from ('192.168.31.46', 55174): Purvesh: hi
-2024-06-27 12:46:47 - Message received from ('192.168.31.46', 55174): Purvesh: hi
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:22 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-27 12:47:25 - Got a connection from ('192.168.31.46', 55176)
-2024-06-27 12:47:25 - Message received from ('192.168.31.46', 55176): Purvesh: Hi
-2024-06-27 12:47:25 - Message received from ('192.168.31.46', 55176): Purvesh: Hi
-2024-06-27 13:08:42 - Sent message: Gajanan: jevn to 192.168.31.192
-2024-06-27 13:08:42 - Message sent to 192.168.31.192: Gajanan: jevn
-2024-06-27 13:08:57 - Sent message: Gajanan: chal n to 192.168.31.192
-2024-06-27 13:08:57 - Message sent to 192.168.31.192: Gajanan: chal n
-2024-06-27 13:18:27 - Server started on 192.168.31.23:9999
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:18:27 - Server is listening for connections...
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:18:27 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-27 13:19:07 - Sent message: Gajanan: Oyy to 192.168.31.192
-2024-06-27 13:19:07 - Message sent to 192.168.31.192: Gajanan: Oyy
-2024-06-27 13:19:17 - Sent message: Gajanan: Chal n to 192.168.31.192
-2024-06-27 13:19:17 - Message sent to 192.168.31.192: Gajanan: Chal n
-2024-06-27 14:40:28 - Sent message: Gajanan: pillle to 192.168.31.192
-2024-06-27 14:40:28 - Message sent to 192.168.31.192: Gajanan: pillle
-2024-06-27 14:40:41 - Sent message: Gajanan: luv u to 192.168.31.192
-2024-06-27 14:40:41 - Message sent to 192.168.31.192: Gajanan: luv u
-2024-06-27 15:27:03 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-27 15:27:03 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
-2024-06-27 15:27:03 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-27 15:27:03 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-27 15:27:03 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Server started on 192.168.31.23:9999
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 11:47:25 - Server is listening for connections...
-2024-06-28 11:49:28 - Sent message: Gajanan: kam kr to 192.168.31.46
-2024-06-28 11:49:28 - Message sent to 192.168.31.46: Gajanan: kam kr
-2024-06-28 15:22:18 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 15:22:31 - Error sending message to 192.168.31.192: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 15:23:07 - Sent message: Unknown Sender: Hii to 192.168.31.192
-2024-06-28 15:23:07 - Message sent to 192.168.31.192: Unknown Sender: Hii
-2024-06-28 15:23:18 - Sent message: Unknown Sender: kam kr to 192.168.31.192
-2024-06-28 15:23:18 - Message sent to 192.168.31.192: Unknown Sender: kam kr
-2024-06-28 16:04:15 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:04:24 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:21 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 16:57:34 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 17:12:04 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-06-28 17:12:13 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-06-28 18:01:51 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:02:13 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:53 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:17:57 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:08 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:38:15 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:21 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:50:28 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:55:58 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 18:56:06 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:07:01 - Sent message: Unknown Sender: hi to 192.168.31.192
-2024-06-28 19:07:01 - Message sent to 192.168.31.192: Unknown Sender: hi
-2024-06-28 19:22:38 - Error getting local IP address: [WinError 10051] A socket operation was attempted to an unreachable network
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:44 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.31.23: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-28 19:22:56 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:35:18 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-29 10:58:31 - Sent message: Gajanan: Hiii to 192.168.31.192
-2024-06-29 10:58:31 - Message sent to 192.168.31.192: Gajanan: Hiii
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-29 14:18:32 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-06-29 15:22:59 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-06-30 15:06:25 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-01 10:45:32 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-01 11:02:56 - Sent message: Gajanan: oyy to 192.168.31.192
-2024-07-01 11:02:56 - Message sent to 192.168.31.192: Gajanan: oyy
-2024-07-01 11:04:22 - Sent message: Gajanan: Frame changli shodh to 192.168.31.192
-2024-07-01 11:04:22 - Message sent to 192.168.31.192: Gajanan: Frame changli shodh
-2024-07-01 11:07:08 - Error sending message to 192.168.31.192: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
-2024-07-01 16:24:13 - Error sending message to 192.168.31.192: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
-2024-07-01 16:24:27 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
-2024-07-01 16:24:58 - Error sending message to 192.168.31.170: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
-2024-07-01 16:25:59 - Error sending message to 192.168.31.192: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-02 10:49:39 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-03 12:11:59 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-03 15:29:07 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-04 22:30:50 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-04 23:52:15 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-05 11:16:31 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-05 22:00:30 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-06 10:05:44 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-06 15:23:59 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-07 11:57:39 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.31.153: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.1.105: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
-2024-07-08 10:16:57 - Error binding to port 9999 on 192.168.31.46: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:32:54 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:32:54 - Server started on 192.168.31.23:9999
+2024-06-27 11:32:54 - Server is listening for connections...
+2024-06-27 11:32:54 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:32:54 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:32:54 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:33:41 - Got a connection from ('192.168.31.192', 51732)
+2024-06-27 11:33:41 - Message received from ('192.168.31.192', 51732): Chaitali: Hi
+2024-06-27 11:33:41 - Message received from ('192.168.31.192', 51732): Chaitali: Hi
+2024-06-27 11:34:31 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:34:31 - Server started on 192.168.31.23:9999
+2024-06-27 11:34:31 - Server is listening for connections...
+2024-06-27 11:34:31 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:34:31 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:34:31 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:34:37 - Got a connection from ('192.168.31.192', 51735)
+2024-06-27 11:34:37 - Message received from ('192.168.31.192', 51735): Chaitali: Hi
+2024-06-27 11:34:37 - Message received from ('192.168.31.192', 51735): Chaitali: Hi
+2024-06-27 11:34:54 - Got a connection from ('192.168.31.192', 51737)
+2024-06-27 11:34:54 - Message received from ('192.168.31.192', 51737): Chaitali: Hi
+2024-06-27 11:34:55 - Message received from ('192.168.31.192', 51737): Chaitali: Hi
+2024-06-27 11:36:24 - Got a connection from ('192.168.31.192', 51738)
+2024-06-27 11:36:24 - Message received from ('192.168.31.192', 51738): Chaitali: Hi
+2024-06-27 11:36:24 - Message received from ('192.168.31.192', 51738): Chaitali: Hi
+2024-06-27 11:44:30 - pickle loaded: C:\Users\User\AppData\Local\Programs\Thonny\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2024-06-27 11:44:31 - diff parser start
+2024-06-27 11:44:31 - line_lengths old: 88; new: 88
+2024-06-27 11:44:31 - -> code[equal] old[1:81] new[1:81]
+2024-06-27 11:44:31 - copy old[1:65] new[1:65]
+2024-06-27 11:44:31 - parse_part from 66 to 68 (to 68 in part parser)
+2024-06-27 11:44:31 - parse_part from 69 to 73 (to 74 in part parser)
+2024-06-27 11:44:31 - parse_part from 74 to 88 (to 87 in part parser)
+2024-06-27 11:44:31 - -> code[replace] old[82:82] new[82:82]
+2024-06-27 11:44:31 - -> code[equal] old[83:88] new[83:88]
+2024-06-27 11:44:31 - diff parser end
+2024-06-27 11:47:21 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:47:21 - Server started on 192.168.31.23:9999
+2024-06-27 11:47:21 - Server is listening for connections...
+2024-06-27 11:47:21 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:47:21 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:47:21 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:47:25 - Got a connection from ('192.168.31.192', 51759)
+2024-06-27 11:47:25 - Message received from ('192.168.31.192', 51759): Chaitali: hi
+2024-06-27 11:47:25 - Message received from ('192.168.31.192', 51759): Chaitali: hi
+2024-06-27 11:48:26 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:26 - Server started on 192.168.31.23:9999
+2024-06-27 11:48:26 - Server is listening for connections...
+2024-06-27 11:48:26 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:26 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:26 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:32 - Got a connection from ('192.168.31.192', 51762)
+2024-06-27 11:48:32 - Message received from ('192.168.31.192', 51762): Chaitali: hi
+2024-06-27 11:48:32 - Message received from ('192.168.31.192', 51762): Chaitali: hi
+2024-06-27 11:48:55 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:55 - Error binding to port 9999 on 192.168.31.2: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:56 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:56 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:48:56 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:49:29 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:49:29 - Server started on 192.168.31.23:9999
+2024-06-27 11:49:29 - Server is listening for connections...
+2024-06-27 11:49:30 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:49:30 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:49:30 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:49:32 - Got a connection from ('192.168.31.192', 51765)
+2024-06-27 11:49:32 - Message received from ('192.168.31.192', 51765): Chaitali: hi
+2024-06-27 11:49:32 - Message received from ('192.168.31.192', 51765): Chaitali: hi
+2024-06-27 11:51:21 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:51:21 - Server started on 192.168.31.23:9999
+2024-06-27 11:51:21 - Server is listening for connections...
+2024-06-27 11:51:21 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:51:21 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 11:51:21 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:14:33 - Error binding to port 9999 on 192.168.31.191: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:14:33 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-27 12:14:33 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:14:33 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:14:33 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:16:05 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:16:05 - Server started on 192.168.31.23:9999
+2024-06-27 12:16:05 - Server is listening for connections...
+2024-06-27 12:16:05 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:16:05 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:16:05 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:19:21 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:19:21 - Server started on 192.168.31.23:9999
+2024-06-27 12:19:21 - Server is listening for connections...
+2024-06-27 12:19:21 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:19:21 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:19:21 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-06-27 12:19:25 - Got a connection from ('192.168.31.192', 51970)
+2024-06-27 12:19:25 - Message received from ('192.168.31.192', 51970): Unknown Sender: Hi
+2024-06-27 12:19:25 - Message received from ('192.168.31.192', 51970): Unknown Sender: Hi
+2024-06-27 15:20:40 - Error binding to port 9999 on 192.168.31.192: [WinError 10049] The requested address is not valid in its context
+2024-06-27 15:20:40 - Error binding to port 9999 on 192.168.31.23: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-06-27 15:20:40 - Error binding to port 9999 on 192.168.31.132: [WinError 10049] The requested address is not valid in its context
+2024-06-27 15:20:40 - Error binding to port 9999 on 192.168.1.104: [WinError 10049] The requested address is not valid in its context
+2024-06-27 15:20:40 - Error binding to port 9999 on 192.168.31.170: [WinError 10049] The requested address is not valid in its context
+2024-07-03 18:24:15 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-07-03 18:24:35 - Error sending message to 192.168.31.46: [WinError 10061] No connection could be made because the target machine actively refused it
